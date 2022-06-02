@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Holiday Checker</string>
+    <string name="holiday_checker">&#127759; Holiday Checker</string>
+    <string name="sign_in">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="required">This field is required</string>
+    <string name="invalidEmail">Invalid email address</string>
+    <string name="emptyEmail">Email Address can not be empty</string>
+    <string name="home">Home</string>
+    <string name="available_countries">Available Countries</string>
+    <plurals name="error_week_password">
+        <item quantity="one">The password is not strong enough. Use at least %1$d character and a mix of letters and numbers</item>
+        <item quantity="other">The password is not strong enough. Use at least %1$d character and a mix of letters and numbers</item>
+    </plurals>
+    <plurals name="error_field_length">
+        <item quantity="one">Field is less than %1$d characters.</item>
+        <item quantity="other">Field is less than %1$d characters.</item>
+    </plurals>
+</resources>
